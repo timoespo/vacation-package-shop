@@ -20,7 +20,7 @@ To get started with the Destination Vacation Shopping Cart project, follow the i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/destination-vacation-shopping-cart.git
+   git clone https://github.com/timoespo/vacation-package-shop.git
    cd destination-vacation-shopping-cart
    ```
 
