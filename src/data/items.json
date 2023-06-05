@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Barcelona",
+    "price": 1499.99,
+    "imgUrl": "/imgs/barcelona.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Dubai",
+    "price": 2249.99,
+    "imgUrl": "/imgs/dubai.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Kyoto",
+    "price": 1899.99,
+    "imgUrl": "/imgs/kyoto.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "London",
+    "price": 1399.99,
+    "imgUrl": "/imgs/london.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "New York City",
+    "price": 1499.99,
+    "imgUrl": "/imgs/nyc.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Paris",
+    "price": 1549.99,
+    "imgUrl": "/imgs/paris.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Prague",
+    "price": 1999.99,
+    "imgUrl": "/imgs/prague.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Singapore",
+    "price": 2499.99,
+    "imgUrl": "/imgs/singapore.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Venice",
+    "price": 1099.99,
+    "imgUrl": "/imgs/venice.jpeg"
+  }
+]
