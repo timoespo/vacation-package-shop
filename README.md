@@ -56,7 +56,8 @@ The project utilizes the following major dependencies:
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Vite](https://vitejs.dev/): A fast and opinionated web build tool that serves the project during development.
 - [React Router](https://reactrouter.com/): A collection of navigational components for React applications.
-- [Material-UI](https://mui.com/): A popular React UI framework that provides ready-to-use components with a modern design.
+- [TypeScript](https://www.typescriptlang.org/): TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+- [Bootstrap](https://getbootstrap.com/): A popular React UI framework that provides ready-to-use components with a modern design.
 
 For a complete list of dependencies, please refer to the `package.json` file.
 
